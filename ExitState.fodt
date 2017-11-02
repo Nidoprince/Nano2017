@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2017-11-01T10:41:35.060000000</meta:creation-date><dc:date>2017-11-01T16:01:34.219000000</dc:date><meta:editing-duration>PT2H8M10S</meta:editing-duration><meta:editing-cycles>21</meta:editing-cycles><meta:generator>LibreOffice/5.3.6.1$Windows_x86 LibreOffice_project/686f202eff87ef707079aeb7f485847613344eb7</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="15" meta:word-count="2237" meta:character-count="12668" meta:non-whitespace-character-count="10287"/></office:meta>
+ <office:meta><meta:creation-date>2017-11-01T10:41:35.060000000</meta:creation-date><dc:date>2017-11-02T14:31:26.175000000</dc:date><meta:editing-duration>PT3H20M11S</meta:editing-duration><meta:editing-cycles>33</meta:editing-cycles><meta:generator>LibreOffice/5.3.6.1$Windows_x86 LibreOffice_project/686f202eff87ef707079aeb7f485847613344eb7</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="66" meta:word-count="3831" meta:character-count="21620" meta:non-whitespace-character-count="17539"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">72679</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">150811</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">26407</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">10559</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">9185</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">76909</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">18339</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">160315</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">72679</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">150811</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">26405</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">83236</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">161368</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -84,7 +84,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2206257</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2939578</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
@@ -124,7 +124,10 @@
  </office:scripts>
  <office:font-face-decls>
   <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="NSimSun" svg:font-family="NSimSun" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Calibri" svg:font-family="Calibri" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -166,6 +169,10 @@
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="NSimSun" style:font-family-asian="NSimSun" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" style:num-format="">
@@ -239,6 +246,30 @@
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0019d19d" officeooo:paragraph-rsid="0019d19d"/>
   </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00223897" officeooo:paragraph-rsid="00223897"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00223897" officeooo:paragraph-rsid="0025a926"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0025a926"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00277ae1" officeooo:paragraph-rsid="00277ae1"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="002ab930" officeooo:paragraph-rsid="002ab930"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="002ab930"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="002b7caf" officeooo:paragraph-rsid="002b7caf"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="002b7caf"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00174434"/>
   </style:style>
@@ -258,7 +289,43 @@
    <style:text-properties fo:font-weight="bold" officeooo:rsid="0021aa31" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
    <style:text-properties fo:font-weight="normal" officeooo:rsid="0021aa31" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0022b166" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00240eca" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0025a926" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0025a926" style:font-weight-asian="normal" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0028d7db" style:font-weight-asian="normal" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="002ab930" style:font-weight-asian="normal" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="002b7caf" style:font-weight-asian="normal" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="002bb54d" style:font-weight-asian="normal" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0025a926" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:language-complex="ar" style:country-complex="SA" style:font-weight-complex="normal"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
@@ -294,7 +361,87 @@
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T4">Ryl started by trying words, but if the creature heard their voice, it didn’t respond at all. <text:s/>The creature held up a three fingered hand, and began to sign. <text:s/>Ryl observed and noticed it was repeating a small number of symbols over and over again. <text:s/>Likely simple numbers. <text:s/>Taking a few guesses about biology and upbringing, Ryl took a guess, and compared it against a host of constants that they knew, fundamental constants of the universe that one might use when attempting to find common ground with an alien being. <text:s/>Nothing matched up well. <text:s/>Ryl took another guess, and tried again, and still found nothing. <text:s/>They tried a couple more times before deciding that this might not be what the being was trying to say. <text:s/>Would a random citizen of a space like this know those constants off the top of their head anyways? <text:s/>Ryl was an explorer, and interacted with other species regularly, so they were fundamental to how they communicated, but this wasn’t a scientist or a diplomat, this was just a random member of this species. <text:s/>They were make some repeating symbols with their hands. <text:s/>And yet it seemed very likely that they primarily used their whisker webs to communicate. <text:s/>Wait, that was it. <text:s/>Ryl shifted attention from vision to the spectrum which could feel the messages traveling down the mass of wires. <text:s/>Specifically they focused on the wires the tiny bots had affixed to their body. <text:s/>And their it was. <text:s/>The same pattern being sent down a wire. <text:s/>Or rather two wires. <text:s/>Input and output. <text:s/>And then they had communication. <text:s/>Neither yet understood the other’s language, but by sending and receiving electric impulses along the two wires, communication itself was possible. <text:s/></text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T5">A rapid series of communications established some basic methods of communication, getting the numbers across, and then using that and some pointing to start creating some basic syntax with which to communicate. <text:s/>Ryl zeroed in on trying to get across an idea of time, and a way of communicating something like sleep. <text:s/>And with only a few seconds to spare, Ryl did just that, and sent one last message. <text:s/></text:span></text:p>
    <text:p text:style-name="P3"><text:tab/><text:span text:style-name="T6">Sleep for 40000 seconds.</text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="T6"><text:tab/></text:span><text:span text:style-name="T7">Then Ryl logged off.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T6"><text:tab/></text:span><text:span text:style-name="T8">Then Ryl logged off.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/><text:span text:style-name="T8">2</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T8"><text:tab/></text:span><text:span text:style-name="T7">Sol Space(</text:span><text:span text:style-name="T9">Tazkia)</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T9"><text:tab/>A bolt of lightning almost struck Tazkia as she advanced. <text:s/>She had managed to juke out of the way, and having done so, she knew the fight was over. <text:s/>She closed the last of the distance, taking little damage from her foes remaining attacks, now that the lightning was out of the way. <text:s/>Once she was in range, she unleashed her own magicks, blasting the bearded, lightning throwing, wizard into oblivion. <text:s/>With the lightning mage out of the way, Tazkia led her forces through the gap, knocking down enemy battlements, and at last, after one more quick skirmish, destroying the giant crystalline structure which served as her foes’ main base. <text:s/>She quickly typed, “gg”, then took her hands off the keyboard as the screen flashed “victory” and the post game stats showed up. <text:s/>When the stats came up, the game changed from full screen to windowed, and Tazkia glanced down at the time, wincing when she saw it. <text:s/>She had class in less than 4 hours, and still hadn’t touched her math assignment. <text:s/></text:span><text:span text:style-name="T10">She could probably get it done in half an hour and manage at least three hours of sleep. <text:s/>As she thought about this, and started recalling what exactly she’d learned about in math last Friday, she clicked through some menu’s and took a look at her rankings after tonight’s games. <text:s/></text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T10"><text:tab/>She’d gone up more than a few places in the rankings. <text:s/>She felt pretty good about this, but then she noticed who was right above her. <text:s/>Maybe she could get the math homework done after her morning class? <text:s/>If she only played one more game she’d still get like two hours of sleep. <text:s/>Yeah, she never took the whole two hours for her labs anyways, so she’d finish early, and have time to do the math homework no problem. <text:s/>With one more win she’d officially have the highest rank in her school, and the look on everyone’s faces at the LAN tomorrow night would be worth the sleep deprivation. <text:s/></text:span><text:span text:style-name="T11">She clicked too queue up for another game, but just as she did so, she got an invite to join someone else’s game. <text:s/>She got a ton of invites from folks she didn’t know since she was one of the highest ranking player’s in the country, and she usually ignored them, but this one made her pause. <text:s/>It was the name. <text:s/>Not too many other folks played with Muslim user names, and almost none of those that did were girls. <text:s/>Yet here was someone named Safeerah, inviting her to a game. <text:s/>She checked this person’s rank, figuring it was probably someone pretty low. <text:s/>She wasn’t in the mood to try and coach anyone through the game. <text:s/>But no, this person wasn’t low rank. <text:s/>She wasn’t quite as high as Tazkia, but the next best rank. <text:s/>Intrigued, she clicked accept, dropping out of her solo search and joining up with “Safeerah”. <text:s/></text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T11"><text:tab/>Maybe it was another high ranking player just screwing with her with a name change? <text:s/>Best to check. </text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T11"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T11"><text:s/>Tazkia: <text:s/></text:span><text:bookmark text:name="tw-target-text"/><text:span text:style-name="T19">كيف حالك؟</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T13">Safeerah: </text:span><text:bookmark text:name="tw-target-text1"/><text:span text:style-name="T18">جيد</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T12"><text:tab/></text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T12"><text:tab/>Too quick to be google translate. <text:s/>This gal was legit. <text:s/>Tazkia smiled. <text:s/>She was glad she’d decided on one more game. <text:s/>She’d tried to get some of the girl’s on her floor to play a couple times, but it never worked out very well. <text:s/>And she liked playing with the guys, but still, this was kinda cool too. <text:s/>She didn’t ask any more questions, not wanting to seem as intrigued by her gaming partner as she actually was, and soon they were selecting characters for the game, together with a few more randomly selected players. <text:s/>Tazkia managed to work up the courage to ask Safeerah if she wanted to play together in the same part of the map. <text:s/>The mysterious girl agreed and after a quick discussion with the other players, and a short loading screen, they were walking together to their designated sect</text:span><text:span text:style-name="T14">or. <text:s/>They waited together for shock troops from both sides to lumber their way to the half way point of the map, so that the fighting could begin. <text:s/>Then they played.</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T14"><text:tab/>Safeera was solid. <text:s/>Nothing exceptional, but very efficient. <text:s/>Always took the high probability plays, never made mistakes, and always seemed to get timings down really well. <text:s/>This worked well together with Tazkia’s more aggressive, riskier, style, and the two quickly gained some big advantages </text:span><text:soft-page-break/><text:span text:style-name="T14">against the opponents in that part of the map. <text:s/>Unfortunately, the rest of her team was not doing as well. <text:s/>While she and Safeera were taking a solid lead, everyone else was down one or two kills. <text:s/>It looked likely that it was going to be one of those games where she did well, did her part, but still lost the game because her companions couldn’t hack it. <text:s/>She tried to untilt her </text:span><text:span text:style-name="T15">teammates, pointing out her own lead, and promising to carry them if they could just hold on out, but one of them was getting angry, and Tazkia was pretty sure the game was about to spiral out of control. <text:s/>She sighed. <text:s/>These things happen. <text:s/>Would have been nice to take the crown for tomorrow, but there is always another day. <text:s/></text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T15"><text:tab/>Still, winning was possible, so she steeled herself for a long drawn out game. <text:s/>If she and Safeera could keep their lead, then they might be able to make something happen in the late game, so long as they kept calm. <text:s/>It was a long shot, but its what she had. <text:s/>Then:</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T15"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12">Safeera: <text:s/>Want to see something cool?</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12">Tazkia: <text:s/>Um… I guess? <text:s/>You aren’t going to start feeding are you?</text:span></text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="T15">Safeera: <text:s/>Nope. <text:s/></text:span><text:bookmark text:name="tw-target-text2"/><text:span text:style-name="T18">إن شاء الله</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12"><text:tab/>Cautiously optimistic, Tazkia followed her new friend towards the center of the game world, where the enemy team had grouped up, taking advantage of her own team’s weakness in that area. <text:s/>As they got close, Tazkia wondered what the plan was. <text:s/>There was no way they could win two versus five. <text:s/>They would be throwing the game to even try. <text:s/>Still, her companion seemed confident. <text:s/>They got to one of their own buildings, just as the enemy advanced with its forces. <text:s/>Time to run. <text:s/>But the girl didn’t run, and Tazkia, despite her plan to play smart, play cautious, stayed with her. <text:s/>Time slowed down. <text:s/>At first Tazkia thought this was just adrenaline, but she soon realized that this was too slow. <text:s/>The enemies were moving like molasses, and she had all the time in the world to dodge each of their strikes, firing her own into the perfect spots. <text:s/>In a battle which, Tazkia knew from experience, should have taken about ten seconds, she and Safeera took five slow minutes, methodically destroying the enemy team. <text:s/>Then, once the last foe had fallen, time seemed to return to normal, and the two of them captured the enemies forward base. <text:s/>The game wasn’t over yet, but that fight had shifted the tempo and the advantage completely. <text:s/>There was a few short seconds of silence over chat, then both her allies and her enemies exploded into disbelieving exclamations. <text:s/></text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12">Raiden8(enemy): What the hell?!</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">JokerMango: wtf, lol</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">aimForest2: <text:s/>scripting?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Iloveswords(enemy): u scripting???</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Jasperino: That was sick! XD</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">JokerMango: For real though, r u scripting?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Nidomancer(enemy): reported</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12"><text:tab/>Was Safeera cheating? <text:s/>Thinking about it, thats what she would have thought had she not been part of the fight, doing just the same crazy stuff. <text:s/>But like, it wasn’t the game that had slowed down, it was everything. <text:s/>If Safeera was hacking, it was some next level thing, cause that had been crazy. <text:s/>Like that thing that happens when you break your arm in a fight or whatever. <text:s/>Knowing her explanation would sound crazy though she typed out the only response she could think of.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>get gud <text:s/>:)</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12"><text:tab/>The rest of the game was routine. <text:s/>The fight had broken her enemies, and breathed new life into her allies, and it was a quick rout after that. <text:s/>A couple of the enemy team said they were going to report her, but most of them just tried to friend request her after the game. <text:s/>For her part, Tazkia was pretty </text:span><text:soft-page-break/><text:span text:style-name="T12">detached. <text:s/>The game ended, she noted that she’d moved to the highest rank for her school with much less enthusiasm then she’d expected. <text:s/>That fight was just too weird. <text:s/>She stared at the ranking for a while, then down to Safeera’s chat box. <text:s/>After a long time she typed.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>What was that? <text:s/>Did you do that? <text:s/>With the slowing?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera: <text:s/>What would you say if I said yes?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>I’d ask you how. <text:s/>That wasn’t a game hack was it? <text:s/>That was … something else?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera: <text:s/>You are quick. <text:s/>:) <text:s/></text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>… </text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>You going to tell me what happened or not?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera: <text:s/>Um…</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera: <text:s/>Are you sure you want to know? <text:s/>Could be pretty weird?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>Its already weird. <text:s/>Tell me.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera: <text:s/>OK.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera: <text:s/>But, tomorrow. <text:s text:c="2"/>It’ll take a while. <text:s/></text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>Promise?</text:span></text:p>
+   <text:p text:style-name="P13"><text:span text:style-name="T16">Safeera: <text:s/></text:span><text:bookmark text:name="tw-target-text3"/><text:span text:style-name="T18">إن شاء الله</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>Alright. <text:s/></text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>Good night.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera: <text:s/>Hey, Tazkia?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>Yeah?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera: <text:s/>Want to see something cool?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>...</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>Going to be freaky again?</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera: <text:s/>A bit.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Tazkia: <text:s/>Sure. <text:s/>What the heck.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera: <text:s/>:)</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12">Safeera has disconnected.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12"><text:tab/></text:span><text:span text:style-name="T17">What in the world was that all about? <text:s/>Tazkia wasn’t sure whether she was annoyed or scared or just confused. <text:s/>Maybe a bit excited. <text:s/>It had been a trippy game for sure. <text:s/>She closed out of the game. <text:s/>Wonder what the last bit was supposed to be about? <text:s/>Time hadn’t slowed down again? <text:s/>She picked up a pen on her desk and dropped it, happily discovering that it fell at a normal speed. <text:s/></text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T13"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T13"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T13"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T13"/></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T11"><text:s/></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T8"/></text:p>
   </office:text>
  </office:body>
 </office:document>
