@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2017-11-01T10:41:35.060000000</meta:creation-date><dc:date>2017-11-03T13:02:02.293000000</dc:date><meta:editing-duration>PT3H59M51S</meta:editing-duration><meta:editing-cycles>43</meta:editing-cycles><meta:generator>LibreOffice/5.3.6.1$Windows_x86 LibreOffice_project/686f202eff87ef707079aeb7f485847613344eb7</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="11" meta:paragraph-count="105" meta:word-count="6491" meta:character-count="36620" meta:non-whitespace-character-count="29649"/></office:meta>
+ <office:meta><meta:creation-date>2017-11-01T10:41:35.060000000</meta:creation-date><dc:date>2017-11-03T16:25:42.922000000</dc:date><meta:editing-duration>PT4H11M58S</meta:editing-duration><meta:editing-cycles>46</meta:editing-cycles><meta:generator>LibreOffice/5.3.6.1$Windows_x86 LibreOffice_project/686f202eff87ef707079aeb7f485847613344eb7</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="12" meta:paragraph-count="153" meta:word-count="7606" meta:character-count="42942" meta:non-whitespace-character-count="34782"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">280393</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">322091</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">26407</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">10559</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">19750</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">287884</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8257</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">329470</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">280393</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">322091</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">26405</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">290950</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">332648</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -84,7 +84,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3732434</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3849372</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
@@ -381,6 +381,21 @@
   <style:style style:name="T32" style:family="text">
    <style:text-properties officeooo:rsid="0038f3d2" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties officeooo:rsid="003920aa" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties officeooo:rsid="00392489" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties officeooo:rsid="003958ea" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties officeooo:rsid="003abc9c" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties style:text-position="super 58%" officeooo:rsid="00392489" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -394,6 +409,7 @@
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -570,7 +586,55 @@
    <text:p text:style-name="P18"><text:span text:style-name="T31"><text:tab/>“</text:span><text:span text:style-name="T32">The universe is rounding? <text:s/>When its subatomic particles collide its freakin’ rounding?”</text:span></text:p>
    <text:p text:style-name="P18"><text:span text:style-name="T32"><text:tab/>“And its also picking random things in a non-random way?”</text:span></text:p>
    <text:p text:style-name="P18"><text:span text:style-name="T32"><text:tab/>“We should double check each other. <text:s/>I’ll give you the algorithm I figured out, and you show me where the math doesn’t add up.” <text:s/></text:span></text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/><text:span text:style-name="T32"><text:tab/>“Alright.” <text:s/>The pair set to work, working together, checking each other’s assumptions, running numbers and comparing arithmetic. <text:s/>They worked for another couple hours, then, drawn by the siren song of their stomach’s retired to the kitchen, reheating leftovers from the previous night. <text:s/></text:span></text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/><text:span text:style-name="T32"><text:tab/>“Alright.” <text:s/>The pair set to work, working together, checking each other’s assumptions, running numbers and comparing arithmetic. <text:s/>They worked for another couple hours, then, drawn by the siren song of their stomach’s, retired to the kitchen, reheating leftovers from the previous night. <text:s/>Scarfing was the appropriate word to describe their interactions with the food. <text:s/>Iefsh was about to speak, but O</text:span><text:span text:style-name="T34">m</text:span><text:span text:style-name="T32">th stopped her, motioning towards the restroom. <text:s/>After he returned, they spoke.</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T32"><text:tab/>“You know what this means?” asked Iefsh. <text:s/></text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T32"><text:tab/>“Um… not exactly. <text:s/>Guess it makes the world feel a lot more ‘manufactured’ to some extent? <text:s/>Like engineers cut corners when they made everything.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T32"><text:tab/>“Which means this place was made.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T32"><text:tab/>“Wait, like by a god or something?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T32"><text:tab/>“Technically possible I guess, but I’m figuring something less religion, and more computer science.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T32"><text:tab/>“</text:span><text:span text:style-name="T33">Oh. <text:s/>Like the whole, “we live in a simulation” idea that was so popular back during the advent of computers?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/>“Precisely. <text:s/>Or rather, not precisely, which is the whole point.” <text:s/>Iefsh grinned.</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/>“OK, so we live in a simulation. <text:s/>Does that fundamentally change anything really? <text:s/>I feel like the fact that it didn’t is why people eventually stopped talking about it.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/>“It doesn’t change anything really if there is no way for the simulation to interact with anything outside it. <text:s/>If we are in perfectly contained simulation, its exactly the same as us not being in a simulation except that some folks we can never experience or understand could presumably turn us off or screw with us in some way. <text:s/>But… that assumes that the simulation is created in a perfectly safe way. <text:s/>Both of the things we discovered today imply imperfection. <text:s/>If we can detect the raggedy edges of our simulation, or raggedy structure, then maybe we can find some other parts that have some flaws?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/>“Are you implying we either figure out how to hack reality? <text:s/>Like gain super powers and stuff?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/>“Oh, I guess we could do that too. <text:s/>That could be pretty fun. <text:s/>I was more thinking about escaping it. <text:s/>If we’ve found the edges of our reality, why not explore the reality that built this one?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/>“Grand ambitions. <text:s/>They’re why I married you.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/>“I thought it was because I look great in skirts and helped you finish your thesis?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/>“Baby, you look great in anything. <text:s/>Also in nothing. <text:s/>Plus I was going to get my thesis done regardless. <text:s/>You just cut a few months off.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/>“I cut a year off at least.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/>“Fair. <text:s/>But the grand ambitions were also pretty hot.” <text:s/>Iefsh </text:span><text:span text:style-name="T34">gives Omth a kiss and then holds out her hand to him.</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“Want to hack reality with me? <text:s/>For science, and discovery, and also maybe super powers?” <text:s/>Omth takes the hand, and drags Iefsh close, kissing her back and wrapping her in his arms. <text:s/></text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“Sounds like a plan darling. <text:s/>When do we start?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“Maybe in an hour?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“OK.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“You doing anything for the next hour?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“Nope, not much going on.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“Excellent.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>An hour and a half later, the pair were back in the lab. <text:s/>They’d decided to check for any more flaws in the same vein as the first couple they’d found. <text:s/>They worked quietly, jotting down anything interesting that they found and passing notes via paper airplane. <text:s/>Then Iefsh spoke.</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“We going to tell anyone about this?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“Would anyone believe us? <text:s/>We are the crackpots trying to disprove Vanstr. <text:s/>I mean, depending on what we uncover, we might need to bring someone in more familiar with like hacking things. <text:s/>But I </text:span><text:soft-page-break/><text:span text:style-name="T34">feel like we can wait to tell folks till after we get the super powers. <text:s/>It’ll make things a lot simpler on our end.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“Yeah. <text:s/>I feel a bit bad about not letting folks know though.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“You are right. <text:s/>We could publish the data, and a way to contact us. <text:s/>Then anyone else could figure out what we have, and if they are smart enough to do so, we bring em in.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“That could work. <text:s/>Yeah, I like that a lot actually. <text:s/>If someone is curious or quick, they’ll be able to figure it out. <text:s/>We aren’t hiding the data, just the conclusions, which are still hypothetical at best.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“OK, I’ll contact one of the publishing places tomorrow morning. <text:s/>Should be able to get us into one of the smaller one’s at least.” <text:s/></text:span><text:span text:style-name="T35">Both got back to work for a bit, the Iefsh spoke up again.</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“Babe, you ever wonder if we’re both just crackpots. <text:s/>We went from depressed this morning, to believing that we can hack reality in like five hours, just from looking at the 8</text:span><text:span text:style-name="T37">th</text:span><text:span text:style-name="T34"> number after the decimal in some experimental data. <text:s/>Sounds pretty crazy to me.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“I mean, yeah, we definitely have a tendency to jump to the big conclusions, but I think we are pretty good at grounding ourselves when we run into contradictory evidence. <text:s/>Goes with the whole ambition thing.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T34"><text:tab/>“Yeah, you’re right. <text:s/>… <text:s/></text:span><text:span text:style-name="T35">I love you.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T35"><text:tab/>“I love you too.” <text:s/></text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T35"><text:tab/>“</text:span><text:span text:style-name="T36">Not three?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“Nope, just two. <text:s/>Can’t get dramatic now can we?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“I thought you did drama back in the day?”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“Yeah, but I always ended up playing the emotionless scientist types. <text:s/>Never very good at emoting.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“I’m afraid I’d have to disagree there. <text:s/>You’re smile could blind someone.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“Only when I’m smiling at you. <text:s/>You are my emotion muse.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“I’ll add that to my resume. <text:s/>Iefsh Lazcht: <text:s/>Very a-muse-ing.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“I’d hire you.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“Too late, I already hired you. <text:s/>Can’t both hire each other.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“You got it boss.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“Back to work. <text:s/>No slacking off!”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T36"><text:tab/>“As you wish.”</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T35"><text:tab/>The couple worked throughout the day, stopping only for short breaks here and there. <text:s/>They managed to uncover a few more leads as the day went on. <text:s/>Nothing as straightforward as what they had first discovered, but now that they were looking for the right sort of thing it was easier. <text:s/>They slept like the dead, and woke up refreshed and ready to go. <text:s/>Iefsh headed out to get some supplies they’d need to do some further experiments. <text:s/>Omth got a hold of some friends in the science journal publishing sphere, and then sent over the data. <text:s/>By noon the lovers were back at work, testing and figuring things out. <text:s/>Later that evening, a small, but well respected journal published a brief article going over the results of a recent experiment conducted by noted physicists Iefsh and Omth Lazcht. <text:s/>It was light on speculation, simply noting that these results had disproved a theory that Iefsh had proposed a number of years ago. <text:s/>The bulk of the article was simply data. <text:s/>The only thing particularly notable about the data was that the numbers were all presented to 15 decimals, while the journal’s editors usually rounded such data down to 6 places. <text:s/>A small note at the end indicated that the submitters of the article had requested this level of precision, and that any complaints or thoughts about the numbers should be directed at them, and not at the editing staff. <text:s/>A communication method was provided. <text:s/></text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T33"><text:tab/></text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
