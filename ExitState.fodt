@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2017-11-01T10:41:35.060000000</meta:creation-date><dc:date>2017-11-13T23:09:43.628000000</dc:date><meta:editing-duration>PT8H49M37S</meta:editing-duration><meta:editing-cycles>103</meta:editing-cycles><meta:generator>LibreOffice/5.3.6.1$Windows_x86 LibreOffice_project/686f202eff87ef707079aeb7f485847613344eb7</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="37" meta:paragraph-count="340" meta:word-count="26572" meta:character-count="150317" meta:non-whitespace-character-count="121770"/></office:meta>
+ <office:meta><meta:creation-date>2017-11-01T10:41:35.060000000</meta:creation-date><dc:date>2017-11-14T16:37:20.015000000</dc:date><meta:editing-duration>PT9H34S</meta:editing-duration><meta:editing-cycles>105</meta:editing-cycles><meta:generator>LibreOffice/5.3.6.1$Windows_x86 LibreOffice_project/686f202eff87ef707079aeb7f485847613344eb7</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="38" meta:paragraph-count="360" meta:word-count="27526" meta:character-count="155579" meta:non-whitespace-character-count="126019"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">1033992</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">1070622</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">26407</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">10559</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">10227</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">1043414</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">20110</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1078184</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">1033992</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">1070622</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">26405</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">1044549</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">1081179</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -84,7 +84,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">7502674</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">7623134</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
@@ -421,6 +421,9 @@
   <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="006f676a" officeooo:paragraph-rsid="006df4da"/>
   </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="006f676a" officeooo:paragraph-rsid="006df4da"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00174434"/>
   </style:style>
@@ -672,6 +675,12 @@
   </style:style>
   <style:style style:name="T84" style:family="text">
    <style:text-properties officeooo:rsid="00727b52"/>
+  </style:style>
+  <style:style style:name="T85" style:family="text">
+   <style:text-properties officeooo:rsid="0072c221"/>
+  </style:style>
+  <style:style style:name="T86" style:family="text">
+   <style:text-properties officeooo:rsid="007451de"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
@@ -1159,7 +1168,27 @@
    <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T83">I’m afraid not. <text:s/>My reality had very different gods and religions. <text:s/>Mass understanding of the reality of simulation tends to deflate religion a bit though, and my reality has lived with that knowledge for generations. <text:s/>Exploring your world’s religions has been one of my great joys here.”</text:span></text:p>
    <text:p text:style-name="P62"><text:tab/>“Umm…<text:span text:style-name="T83"> any of the hacking powers actually detect any evidence of a deities influence? <text:s/>Or are gods kinda debunked when we know that someone else created us?”</text:span></text:p>
    <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T84">Afraid I don’t have any easy answers here, either way. <text:s/>No evidence for, but on the other hand, we don’t have the resources to scour the cosmos for a possible deity’s existence either. <text:s/>And, it is entirely possible that this reality is a simulation which includes a deity, or that your god may exist on the world above this one which created it. <text:s/>I can’t say.”</text:span></text:p>
-   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T84">Well, that’s frustrating. <text:s/>I’m definitely going to have to think about this a bit.” <text:s/>Tazkia begins this contemplation and falls silent.</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T84">Well, that’s frustrating. <text:s/>I’m definitely going to have to think about this a bit.” <text:s/>Tazkia begins this contemplation and falls silent. <text:s/>“Well, I suppose either way, I’ll learn more if we succeed in our mission. <text:s/>Better get on this breaking out thing I suppose. <text:s/>Where do we start?”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">I should warn you that my people, and others have been trying to find a way out for generations. <text:s/>Its unlikely to happen in your lifetime. <text:s/>Are you still willing to join, even if you don’t know for sure if you’ll ever see the final answers to your questions?”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">Hmm, hadn’t considered that. <text:s/>I don’t really like the idea of striving for something that I’ll never get to see the results of. <text:s/>But I suppose I can deal, just by being cocky, and assuming that I’ll make the difference, and this will be the generation to crack the code.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">Your confidence is inspiring. <text:s/>I appreciate your willingness to try.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">So, what exactly am I going to be doing then? <text:s/>Will I be hopping around dimensions recruiting people like you? <text:s/>Or looking at data and trying to spot bugs? <text:s/>Or what exactly? <text:s/>I don’t exactly have a lot of experience outside of the realm of computer science and competitive video games. <text:s/>And I’m not even the best at those things. <text:s/>I mean, I might become the best, but I’m not yet.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:soft-page-break/><text:tab/>“<text:span text:style-name="T85">You will of course get to choose how to spend your own time. <text:s/>Everything in the Alliance is voluntary. <text:s/>But it is my belief that you may be particularly suitable in a data analysis or attempted hacking role. <text:s/>If those things seem interesting to you, I can put you in contact with the relevant people. <text:s/>If you’d rather travel, I can arrange that as well. <text:s/>We have other jobs as well. <text:s/>I’ve uploaded a full list to your computer system, so feel free to peruse them at your leisure and get back to me.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">Alright, that sounds good. <text:s/>I’d definitely be interested in actually directly trying to crack the reality system. <text:s/>But I’ll take a look at my options first for sure. <text:s/>How will I get a hold of you? <text:s/>Just message you in game?”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">That seems like the easiest way. <text:s/>I can provide you with an email address as well so that you can message me if you only have access to a phone as well.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">OK, great. <text:s/>Umm… <text:s/>anything else?”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">Not presently.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">Well then… thanks. <text:s/>For believing in me, or seeing something in me or whatever.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">Its you who should be thanked. <text:s/>We are peers now, and I look forward to seeing your work.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">Umm, before you unfreeze time, I want to ask you a question. <text:s/>Did you let me win this last game?”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">Yes and no. <text:s/>I did my best within the confines of not changing the rules of the game. <text:s/>I could have won by using my time controlling powers upon the servers running the game, or slowed your reaction time down, or a number of other things, but instead I simply gave myself super sleep reflexes and then played the game as best I know how. <text:s/>I’m afraid I am, to some extent, a beginner. <text:s/>I’ve only been playing a couple weeks.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">That’s good. <text:s/>I’d kinda hate you if you let me win. <text:s/>You are pretty dang good for a beginner.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">The time powers help.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">Yeah, they do, but still.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">Thank you.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/>“<text:span text:style-name="T85">And you.”</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/><text:span text:style-name="T85">The pair stand awkwardly for a bit. <text:s/>Tazkia cautiously looks into Safeerah’s eyes again, and again, becomes lost. <text:s/>Time loses meaning, lots of galaxies within stars within atoms, and that kinda imagery, then it stops. <text:s/>Tazkia sees Safeerah turning away, and her sense return. <text:s/>She suddenly hears the roar of the crowd, and she realizes that time has started up again. <text:s/>Before she can get her bearings, Safeerah is gone. <text:s/>Tazkia is dragged away by her teammates, and much rejoicing is had. <text:s/>There is an extensive amount of pizza, a close call with a slice of bacon pizza, and a general good times and celebration. <text:s/>Jake was there, and she even got something kinda like a congratulations from him, which was new. <text:s/>Everyone kept talking about her epic backdoor, and how cool she had been. <text:s/>There was of course a lot of praise for Safeerah as well, and her computer had been triple checked after the game for signs of scripting, but when it was proven nothing was there, the respect was almost physical. <text:s/>That girl had played like no one had ever seen. <text:s/>And yet still, their very own Tazkia had still won. <text:s/>It was a game to go down in the history books for sure. <text:s/>The video had been uploaded moments after it finished, and it looked like it was going to get a lot of hits. <text:s/>More than ten thousand people had watched it already. <text:s/>The whole situation was strange for Tazkia though, because while she certainly wanted to celebrate, and she felt really good about the whole thing, there was a significant part of her that just wanted to go home and start reading about her new interdimensional career options. <text:s/>And so, when the time came for folks to say goodbye, Tazkia left, and instead of calming down, she got even more hyped.</text:span></text:p>
+   <text:p text:style-name="P62"><text:tab/><text:span text:style-name="T86">She got home, opened the door slowly and softly so as not to awaken her roommate, then plugged her computer in, and sat down. <text:s/>She was expecting to find the document on her desktop, but it wasn’t present there. <text:s/>So she started looking through her directories, searching for the file that would teach her about the rest of her life. <text:s/>After thinking about it a moment, she clicked through a couple of directories, saw it, and smiled. <text:s/>It was a text document, less than a megabyte. <text:s/>breakout.txt sitting right there in her programming folder, in the subdirectory CracksAndExploits. <text:s/>Time to transcend.</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
