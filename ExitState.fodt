@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2017-11-01T10:41:35.060000000</meta:creation-date><dc:date>2017-11-19T22:37:48.394000000</dc:date><meta:editing-duration>P1DT11H56M40S</meta:editing-duration><meta:editing-cycles>126</meta:editing-cycles><meta:generator>LibreOffice/5.3.6.1$Windows_x86 LibreOffice_project/686f202eff87ef707079aeb7f485847613344eb7</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="46" meta:paragraph-count="408" meta:word-count="33333" meta:character-count="188100" meta:non-whitespace-character-count="152402"/></office:meta>
+ <office:meta><meta:creation-date>2017-11-01T10:41:35.060000000</meta:creation-date><dc:date>2017-11-20T23:31:21.157000000</dc:date><meta:editing-duration>P1DT12H18M20S</meta:editing-duration><meta:editing-cycles>131</meta:editing-cycles><meta:generator>LibreOffice/5.3.6.1$Windows_x86 LibreOffice_project/686f202eff87ef707079aeb7f485847613344eb7</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="47" meta:paragraph-count="416" meta:word-count="34620" meta:character-count="195370" meta:non-whitespace-character-count="158331"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">1280871</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">1316085</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">25375</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">10559</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">8188</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">1284291</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">9211</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1325390</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">1280871</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">1316085</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">25374</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">1291428</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">1326642</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -84,7 +84,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">8700712</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">9052416</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
@@ -436,6 +436,12 @@
   <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="008135d0" officeooo:paragraph-rsid="008135d0"/>
   </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00832028" officeooo:paragraph-rsid="00832028"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00832028" officeooo:paragraph-rsid="0086a93b"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00174434"/>
   </style:style>
@@ -735,6 +741,18 @@
   </style:style>
   <style:style style:name="T100" style:family="text">
    <style:text-properties officeooo:rsid="0084c328"/>
+  </style:style>
+  <style:style style:name="T101" style:family="text">
+   <style:text-properties officeooo:rsid="00852897"/>
+  </style:style>
+  <style:style style:name="T102" style:family="text">
+   <style:text-properties officeooo:rsid="00883f5e"/>
+  </style:style>
+  <style:style style:name="T103" style:family="text">
+   <style:text-properties officeooo:rsid="0089b3f7"/>
+  </style:style>
+  <style:style style:name="T104" style:family="text">
+   <style:text-properties officeooo:rsid="008a2100"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
@@ -1293,7 +1311,15 @@
    <text:p text:style-name="P66"><text:soft-page-break/>13</text:p>
    <text:p text:style-name="P66"><text:tab/>Ryl Space(Ryl)</text:p>
    <text:p text:style-name="P66"/>
-   <text:p text:style-name="P66"><text:tab/>When Ryl came out of the exploration, they found themself surrounded by more people than seemed <text:span text:style-name="T100">entirely plausible</text:span>. <text:s/></text:p>
+   <text:p text:style-name="P66"><text:tab/>When Ryl came out of the exploration, they found themself surrounded by more people than seemed <text:span text:style-name="T100">entirely plausible</text:span>. <text:s/><text:span text:style-name="T101">They had been expecting that more would have arrived while they traveled, though to be honest, they had forgotten about that in the excitement of their traveling. <text:s/>But when they had considered the size of the group they would be returning to, the group of those so invested in exploration and the cause that they would give up their homes and defy the government, they had always considered it as a handful of individuals, those at the fringe of things, madly invested in other worlds or opposed to the government already. <text:s/>And yet, it would seem, that their cause, the one which they had just given up their life to protect, was a bit more appealing to a general audience then they had expected. <text:s/>This was truly heartening, and made Ryl feel more connected to their people then they had in a gigasecond. <text:s/>There was of course that small part of Ryl that was slightly annoyed that they weren’t quite as unique and special as they had thought, but they quelled that thought easily enough, and enjoyed the brief feeling of connectivity and empathy for those of their own kind instead. <text:s/></text:span></text:p>
+   <text:p text:style-name="P69"><text:tab/><text:span text:style-name="T101">The surprise that was the multitude of people present had distracted Ryl for a moment, but after the initial shock faded, the effects of returning to their own body once again reared their head, and Ryl was forced to retreat to a small section of the room that was private, intended for use in purification acts. <text:s/>They did their business there, then after a few hundred more seconds to compose themselves, they returned to the main chamber, and began peering at all the new faces. <text:s/>They hadn’t seen this many people in one place ever, in their entire life, and so the very physicality of it was almost overwhelming. <text:s/>Or perhaps that was the smell, one of the few things that is commonly not communicated fully when using modern communication methods. <text:s/>Hundreds of fearful rebels all packed in a room together after a lifetime of isolation created something of a specific scent, and it was not one that many present were truly prepared for. <text:s/>It took a few minutes after beginning the initial wandering of the space, before Ryl found themself able to really focus on much of anything, as the odor was aggressive and took a lot of attention at first. <text:s/>Eventually it became a sort of background thing and Ryl was able to ignore it, but still it was present.</text:span></text:p>
+   <text:p text:style-name="P69"><text:span text:style-name="T101"><text:tab/>The variety of people present was almost more of a surprise to Ryl then had been the sheer number. <text:s/>Their were people here that Ryl knew to be news hosts, and political leaders, and merchants, none of which had exactly been the kind of people that Ryl had figured would be standing up to the government with them. <text:s/>A hundred scientists and recluses was one thing, but a hundred active members of the community was something else. <text:s/>Somehow, the message, which Ryl had always believed in, but had also always assumed was something only smart and creative people could understand, had made it to the people, and the people were listening to it. <text:s/>Somehow, there were a lot of people that cared about who made them, cared about finding out, and cared about reaching the world which had created this one. <text:s/>Ryl supposed that made sense. <text:s/>It had been perhaps a bit arrogant to assume that the search for answers was purely the domain of the scientist and the explorer. <text:s/>Even if one does not seek the edge of the known as part of their profession, it didn’t mean that expanding that boundary was not incredibly important to you. <text:s/>That had always been the argument for why the government should support the scientists and frontiersfolk in their efforts. <text:s/>And yet, again, Ryl had never really bought the argument, even though they had pushed it. <text:s/>It was obvious now that they had been perhaps a bit elitist in their thinking. <text:s/>But, now was not the time to dwell. <text:s/>Now was a time of action.</text:span></text:p>
+   <text:p text:style-name="P69"><text:tab/><text:span text:style-name="T102">The height of action is of course, waiting in a line, a situation that Ryl found themself in just a kilosecond after they had thought so aggressively about it being a time of action. <text:s/>As it turns out, when a few hundred people show up to fight the government, keeping them organized involves effectively creating another government to help facilitate said rebellion. <text:s/>Having done their best to keep themself out of politics their whole life, Ryl was decidedly uncomfortable with this new formality taking a place in their own special rebel zone. <text:s/>But, they wanted to talk to the leaders of the rebellion, and that took </text:span><text:soft-page-break/><text:span text:style-name="T102">time when in such a numerous situation. <text:s/>Still, it was not so incredibly bureaucratic as a government situation might have been if it had existed for megasecond or more, and it was only a kilosecond of waiting before Ryl was able to greet their coconspirators. <text:s/></text:span></text:p>
+   <text:p text:style-name="P69"><text:tab/>“<text:span text:style-name="T102">Ryl, you are back! <text:s/>Tell us what you have learned. <text:s/>Anything promising?”</text:span></text:p>
+   <text:p text:style-name="P69"><text:tab/>“<text:span text:style-name="T102">Actually a lot. <text:s/>I figured these people had to know something we didn’t for their method of communication to make sense, but now, after spending a little time getting to know these “Chroma”, for that&apos;s the name that we agreed upon, I believe that this might be the closest we have ever come to having an equal exchange of ideas and culture. <text:s/>Their society has a lot going for it, and may have a good deal to teach our own. <text:s/>Plus, they are quite excited about our general goals. <text:s/>By the time I left them, they were not only beginning work on their own transdimensional communication system, but they were preparing a lesson plan for how best to communicate their own cultural quirks to new peoples which they might encounter. <text:s/>They truly threw themselves into the task. <text:s/>To say I am impressed would be a definite understatement.”</text:span></text:p>
+   <text:p text:style-name="P69"><text:tab/>“<text:span text:style-name="T102">That’s incredible Ryl. <text:s/>We are excited to learn more about our newest siblings in the search for the outside world.”</text:span></text:p>
+   <text:p text:style-name="P69"><text:tab/>“<text:span text:style-name="T103">I hope to be back in their in not too long at all. <text:s/>If I can start bringing in real scientific or mathematical discoveries which we ourselves had never constructed/thought up, it will add some real weight to our propaganda campaign against the collective actions to shut us down. <text:s/>We’ll see this through and succeed no worries.”</text:span></text:p>
+   <text:p text:style-name="P69"><text:tab/><text:span text:style-name="T104">A look of some kind passed between the two leaders who had been, only moments ago in Ryl’s experience, nothing more than a couple of folks with some strong beliefs. <text:s/>This look was chilling to Ryl. <text:s/>It was the look of those who were trying to shut them down, the look of those that they were now in rebellion against. <text:s/>It was the look that tended to involve sacrificing the future for the needs of the present. <text:s/>It was a fearful thing to see so early on in the rebellion, and it made Ryl wonder if perhaps they had made the right choice after all. <text:s/>Was this group going to do the right thing if they managed to acquire or exercise power? <text:s/>In the end they supposed it didn’t really matter that much. <text:s/>The important issued would be solved. <text:s/>They could keep exploring, keep living their life in robotic body, and for Ryl, that was enough. <text:s/>At least for now. <text:s/>Still, the look had had meaning, and the words that such looks imply soon followed after it. <text:s/>And as Ryl heard the words, and fully took in their meaning, they felt the sickness return, the feeling of being in the wrong body, except extended to the wrong species, the wrong society. <text:s/>Nausea overtook them even as they listened to the voices of their compatriots. <text:s/></text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
